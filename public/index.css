@@ -1,4 +1,48 @@
-/*Add your css code here*/
-div {
+body{
+  background-color: Black
+
+}
+h1{
+  font-family: cursive;
+  font-style: oblique;
+  color: Black;
+  background-color: yellow;
+  font-weight: bold;
+  font-size: 4em;
+  text-align: center;
+}
+nav{
+  font-style: italic;
+  font-weight: normal;
+  color: Tan;
+  font-family: sans-serif;
+}
+h2{
+  font-family: fantasy;
+  font-style: italic;
+  color: Red;
+  font-size: 2em;
+  text-align: left;
+}
+p{
+  font-style: normal;
+  color: Black;
+  font-family: monospace;
+  background-color: grey;
+}
+p1{
+  font-style: italic;
+  font-weight: normal;
   color: red;
+  font-family: sans-serif;
+}
+p2{
+  font-style: italic;
+  font-family: inherit;
+  color: white;
+}
+p3{
+  font-style: normal;
+  font-family: cursive;
+  color: orange;
 }
